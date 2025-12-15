@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 YaBrowser/25.10.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Страница — 1" id="7vxRqv6PsO8AGRU0fxbZ">
+    <mxGraphModel dx="499" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kqmIKv_zls9mA4R0fZ3t-3" edge="1" parent="1" source="kqmIKv_zls9mA4R0fZ3t-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=light-dark(#000000,#000000);" target="kqmIKv_zls9mA4R0fZ3t-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqmIKv_zls9mA4R0fZ3t-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Начало&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="210" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kqmIKv_zls9mA4R0fZ3t-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Середина&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="kqmIKv_zls9mA4R0fZ3t-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Конец&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="210" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="kqmIKv_zls9mA4R0fZ3t-5" edge="1" parent="1" source="kqmIKv_zls9mA4R0fZ3t-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;strokeColor=light-dark(#000000,#000000);" target="kqmIKv_zls9mA4R0fZ3t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
